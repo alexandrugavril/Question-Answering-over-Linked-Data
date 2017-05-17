@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='windows-1252'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/C:/Users/Frankies/Desktop/Dev/Questions/difference/qald_108.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>To<Node id="2"/> <Node id="3"/>which<Node id="8"/> <Node id="9"/>countries<Node id="18"/> <Node id="19"/>does<Node id="23"/> <Node id="24"/>the<Node id="27"/> <Node id="28"/>Himalayan<Node id="37"/> <Node id="38"/>mountain<Node id="46"/> <Node id="47"/>system<Node id="53"/> <Node id="54"/>extend<Node id="60"/>?<Node id="61"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+<Annotation Id="1" Type="N" StartNode="0" EndNode="2">
+</Annotation>
+<Annotation Id="2" Type="N" StartNode="3" EndNode="8">
+</Annotation>
+<Annotation Id="3" Type="N" StartNode="19" EndNode="23">
+</Annotation>
+<Annotation Id="4" Type="N" StartNode="24" EndNode="27">
+</Annotation>
+<Annotation Id="5" Type="TB" StartNode="9" EndNode="18">
+</Annotation>
+<Annotation Id="6" Type="EB" StartNode="28" EndNode="37">
+</Annotation>
+<Annotation Id="7" Type="EI" StartNode="38" EndNode="46">
+</Annotation>
+<Annotation Id="8" Type="EI" StartNode="47" EndNode="53">
+</Annotation>
+<Annotation Id="9" Type="PB" StartNode="54" EndNode="60">
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="61">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

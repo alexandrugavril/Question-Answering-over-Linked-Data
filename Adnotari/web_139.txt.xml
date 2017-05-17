@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='windows-1252'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/D:/Facultate/SSL/WebQSP/WebQSP/data/web131.150/web_139.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>where<Node id="5"/> <Node id="6"/>is<Node id="8"/> <Node id="9"/>the<Node id="12"/> <Node id="13"/>nra<Node id="16"/> <Node id="17"/>headquarters<Node id="29"/> <Node id="30"/>located<Node id="37"/>?<Node id="38"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+<Annotation Id="1" Type="EB" StartNode="13" EndNode="16">
+</Annotation>
+<Annotation Id="2" Type="TB" StartNode="17" EndNode="29">
+</Annotation>
+<Annotation Id="3" Type="PB" StartNode="30" EndNode="37">
+</Annotation>
+<Annotation Id="4" Type="N" StartNode="0" EndNode="5">
+</Annotation>
+<Annotation Id="5" Type="N" StartNode="6" EndNode="8">
+</Annotation>
+<Annotation Id="6" Type="N" StartNode="9" EndNode="12">
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="38">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

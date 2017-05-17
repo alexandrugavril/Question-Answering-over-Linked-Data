@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='windows-1252'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/D:/CTI/Master%20-%20Anul%20I/SSL%20+%20NLP/Project/Questions/web15-30/web_21.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>who<Node id="3"/> <Node id="4"/>is<Node id="6"/> <Node id="7"/>keyshia<Node id="14"/> <Node id="15"/>cole<Node id="19"/> <Node id="20"/>dad<Node id="23"/>?<Node id="24"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+<Annotation Id="1" Type="N" StartNode="0" EndNode="3">
+</Annotation>
+<Annotation Id="2" Type="N" StartNode="4" EndNode="6">
+</Annotation>
+<Annotation Id="3" Type="EB" StartNode="7" EndNode="14">
+</Annotation>
+<Annotation Id="4" Type="EI" StartNode="15" EndNode="19">
+</Annotation>
+<Annotation Id="5" Type="PB" StartNode="20" EndNode="23">
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="24">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

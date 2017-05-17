@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='windows-1252'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/Users/eugenv/Desktop/Licenta/Adnotari/qald/qald_193.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>To<Node id="2"/> <Node id="3"/>which<Node id="8"/> <Node id="9"/>artistic<Node id="17"/> <Node id="18"/>movement<Node id="26"/> <Node id="27"/>did<Node id="30"/> <Node id="31"/>the<Node id="34"/> <Node id="35"/>painter<Node id="42"/> <Node id="43"/>of<Node id="45"/> <Node id="46"/>The<Node id="49"/> <Node id="50"/>Three<Node id="55"/> <Node id="56"/>Dancers<Node id="63"/> <Node id="64"/>belong<Node id="70"/>?<Node id="71"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+<Annotation Id="1" Type="EB" StartNode="46" EndNode="49">
+</Annotation>
+<Annotation Id="2" Type="EI" StartNode="50" EndNode="55">
+</Annotation>
+<Annotation Id="3" Type="EI" StartNode="56" EndNode="63">
+</Annotation>
+<Annotation Id="4" Type="TB" StartNode="35" EndNode="42">
+</Annotation>
+<Annotation Id="5" Type="PB" StartNode="9" EndNode="17">
+</Annotation>
+<Annotation Id="6" Type="PI" StartNode="18" EndNode="26">
+</Annotation>
+<Annotation Id="8" Type="N" StartNode="27" EndNode="30">
+</Annotation>
+<Annotation Id="9" Type="N" StartNode="3" EndNode="8">
+</Annotation>
+<Annotation Id="10" Type="N" StartNode="31" EndNode="34">
+</Annotation>
+<Annotation Id="11" Type="N" StartNode="0" EndNode="2">
+</Annotation>
+<Annotation Id="12" Type="N" StartNode="43" EndNode="45">
+</Annotation>
+<Annotation Id="13" Type="N" StartNode="64" EndNode="70">
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="71">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='windows-1252'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/C:/Users/Frankies/Desktop/Dev/Questions/difference/qald_138.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>How<Node id="3"/> <Node id="4"/>many<Node id="8"/> <Node id="9"/>inhabitants<Node id="20"/> <Node id="21"/>does<Node id="25"/> <Node id="26"/>Maribor<Node id="33"/> <Node id="34"/>have<Node id="38"/>?<Node id="39"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+<Annotation Id="1" Type="N" StartNode="0" EndNode="3">
+</Annotation>
+<Annotation Id="2" Type="N" StartNode="4" EndNode="8">
+</Annotation>
+<Annotation Id="3" Type="N" StartNode="21" EndNode="25">
+</Annotation>
+<Annotation Id="4" Type="N" StartNode="34" EndNode="38">
+</Annotation>
+<Annotation Id="5" Type="PB" StartNode="9" EndNode="20">
+</Annotation>
+<Annotation Id="6" Type="EB" StartNode="26" EndNode="33">
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="39">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='windows-1250'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/C:/Users/Stefania/Documents/Stefania/SSL/Project/801-900/web_862.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>where<Node id="5"/> <Node id="6"/>is<Node id="8"/> <Node id="9"/>the<Node id="12"/> <Node id="13"/>birth<Node id="18"/> <Node id="19"/>place<Node id="24"/> <Node id="25"/>of<Node id="27"/> <Node id="28"/>louis<Node id="33"/> <Node id="34"/>sachar<Node id="40"/>?<Node id="41"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+<Annotation Id="1" Type="N" StartNode="0" EndNode="5">
+</Annotation>
+<Annotation Id="3" Type="N" StartNode="6" EndNode="8">
+</Annotation>
+<Annotation Id="4" Type="N" StartNode="9" EndNode="12">
+</Annotation>
+<Annotation Id="5" Type="N" StartNode="25" EndNode="27">
+</Annotation>
+<Annotation Id="6" Type="EB" StartNode="28" EndNode="33">
+</Annotation>
+<Annotation Id="7" Type="EI" StartNode="34" EndNode="40">
+</Annotation>
+<Annotation Id="8" Type="PB" StartNode="13" EndNode="18">
+</Annotation>
+<Annotation Id="9" Type="PI" StartNode="19" EndNode="24">
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="41">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='windows-1252'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/C:/Users/Frankies/Desktop/Dev/Questions/qald/qald_134.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>In<Node id="2"/> <Node id="3"/>which<Node id="8"/> <Node id="9"/>military<Node id="17"/> <Node id="18"/>conflicts<Node id="27"/> <Node id="28"/>did<Node id="31"/> <Node id="32"/>Lawrence<Node id="40"/> <Node id="41"/>of<Node id="43"/> <Node id="44"/>Arabia<Node id="50"/> <Node id="51"/>participate<Node id="62"/>?<Node id="63"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+<Annotation Id="2" Type="N" StartNode="0" EndNode="2">
+</Annotation>
+<Annotation Id="3" Type="N" StartNode="3" EndNode="8">
+</Annotation>
+<Annotation Id="4" Type="N" StartNode="28" EndNode="31">
+</Annotation>
+<Annotation Id="5" Type="TB" StartNode="9" EndNode="17">
+</Annotation>
+<Annotation Id="6" Type="TI" StartNode="18" EndNode="27">
+</Annotation>
+<Annotation Id="7" Type="EB" StartNode="32" EndNode="40">
+</Annotation>
+<Annotation Id="8" Type="EI" StartNode="41" EndNode="43">
+</Annotation>
+<Annotation Id="9" Type="EI" StartNode="44" EndNode="50">
+</Annotation>
+<Annotation Id="10" Type="PB" StartNode="51" EndNode="62">
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="63">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

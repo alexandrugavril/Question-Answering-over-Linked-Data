@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/Users/bogdan-ciobanu/Documents/facultate/SSL/proiect_qald/corpus/qald/qald_62.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>List<Node id="4"/> <Node id="5"/>all<Node id="8"/> <Node id="9"/>episodes<Node id="17"/> <Node id="18"/>of<Node id="20"/> <Node id="21"/>the<Node id="24"/> <Node id="25"/>first<Node id="30"/> <Node id="31"/>season<Node id="37"/> <Node id="38"/>of<Node id="40"/> <Node id="41"/>the<Node id="44"/> <Node id="45"/>HBO<Node id="48"/> <Node id="49"/>television<Node id="59"/> <Node id="60"/>series<Node id="66"/> <Node id="67"/>The<Node id="70"/> <Node id="71"/>Sopranos<Node id="79"/>!<Node id="80"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+<Annotation Id="1" Type="EB" StartNode="67" EndNode="70">
+</Annotation>
+<Annotation Id="2" Type="EI" StartNode="71" EndNode="79">
+</Annotation>
+<Annotation Id="3" Type="TB" StartNode="9" EndNode="17">
+</Annotation>
+<Annotation Id="4" Type="PB" StartNode="25" EndNode="30">
+</Annotation>
+<Annotation Id="5" Type="PI" StartNode="31" EndNode="37">
+</Annotation>
+<Annotation Id="6" Type="N" StartNode="0" EndNode="4">
+</Annotation>
+<Annotation Id="7" Type="N" StartNode="5" EndNode="8">
+</Annotation>
+<Annotation Id="8" Type="N" StartNode="18" EndNode="20">
+</Annotation>
+<Annotation Id="9" Type="N" StartNode="21" EndNode="24">
+</Annotation>
+<Annotation Id="10" Type="N" StartNode="38" EndNode="40">
+</Annotation>
+<Annotation Id="11" Type="N" StartNode="45" EndNode="48">
+</Annotation>
+<Annotation Id="12" Type="N" StartNode="41" EndNode="44">
+</Annotation>
+<Annotation Id="13" Type="N" StartNode="49" EndNode="59">
+</Annotation>
+<Annotation Id="14" Type="N" StartNode="60" EndNode="66">
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="80">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

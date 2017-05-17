@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='windows-1252'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/Users/eugenv/Desktop/Licenta/Adnotari/qald/qald_178.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Show<Node id="4"/> <Node id="5"/>me<Node id="7"/> <Node id="8"/>Hemingway's<Node id="19"/> <Node id="20"/>autobiography<Node id="33"/>.<Node id="34"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+<Annotation Id="1" Type="EB" StartNode="8" EndNode="19">
+</Annotation>
+<Annotation Id="2" Type="PB" StartNode="20" EndNode="33">
+</Annotation>
+<Annotation Id="3" Type="N" StartNode="0" EndNode="4">
+</Annotation>
+<Annotation Id="4" Type="N" StartNode="5" EndNode="7">
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="34">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

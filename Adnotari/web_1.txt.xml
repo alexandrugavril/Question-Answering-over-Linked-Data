@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='windows-1252'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/D:/CTI/Master%20-%20Anul%20I/SSL%20+%20NLP/Project/Questions/web0-15/web_1.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>what<Node id="4"/> <Node id="5"/>did<Node id="8"/> <Node id="9"/>james<Node id="14"/> <Node id="15"/>k<Node id="16"/> <Node id="17"/>polk<Node id="21"/> <Node id="22"/>do<Node id="24"/> <Node id="25"/>before<Node id="31"/> <Node id="32"/>he<Node id="34"/> <Node id="35"/>was<Node id="38"/> <Node id="39"/>president<Node id="48"/>?<Node id="49"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+<Annotation Id="1" Type="EB" StartNode="9" EndNode="14">
+</Annotation>
+<Annotation Id="2" Type="EI" StartNode="15" EndNode="16">
+</Annotation>
+<Annotation Id="3" Type="EI" StartNode="17" EndNode="21">
+</Annotation>
+<Annotation Id="4" Type="TB" StartNode="39" EndNode="48">
+</Annotation>
+<Annotation Id="5" Type="N" StartNode="0" EndNode="4">
+</Annotation>
+<Annotation Id="6" Type="PB" StartNode="22" EndNode="24">
+</Annotation>
+<Annotation Id="7" Type="N" StartNode="25" EndNode="31">
+</Annotation>
+<Annotation Id="8" Type="PB" StartNode="35" EndNode="38">
+</Annotation>
+<Annotation Id="9" Type="N" StartNode="5" EndNode="8">
+</Annotation>
+<Annotation Id="10" Type="N" StartNode="32" EndNode="34">
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="49">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

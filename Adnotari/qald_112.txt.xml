@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='windows-1252'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/C:/Users/Frankies/Desktop/Dev/Questions/difference/qald_112.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Give<Node id="4"/> <Node id="5"/>me<Node id="7"/> <Node id="8"/>all<Node id="11"/> <Node id="12"/>world<Node id="17"/> <Node id="18"/>heritage<Node id="26"/> <Node id="27"/>sites<Node id="32"/> <Node id="33"/>designated<Node id="43"/> <Node id="44"/>within<Node id="50"/> <Node id="51"/>the<Node id="54"/> <Node id="55"/>past<Node id="59"/> <Node id="60"/>two<Node id="63"/> <Node id="64"/>years<Node id="69"/>.<Node id="70"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+<Annotation Id="1" Type="N" StartNode="0" EndNode="4">
+</Annotation>
+<Annotation Id="2" Type="N" StartNode="5" EndNode="7">
+</Annotation>
+<Annotation Id="3" Type="N" StartNode="8" EndNode="11">
+</Annotation>
+<Annotation Id="4" Type="TB" StartNode="12" EndNode="17">
+</Annotation>
+<Annotation Id="5" Type="TI" StartNode="18" EndNode="26">
+</Annotation>
+<Annotation Id="6" Type="TI" StartNode="27" EndNode="32">
+</Annotation>
+<Annotation Id="7" Type="PB" StartNode="33" EndNode="43">
+</Annotation>
+<Annotation Id="8" Type="N" StartNode="44" EndNode="50">
+</Annotation>
+<Annotation Id="9" Type="N" StartNode="51" EndNode="54">
+</Annotation>
+<Annotation Id="10" Type="N" StartNode="55" EndNode="59">
+</Annotation>
+<Annotation Id="11" Type="N" StartNode="60" EndNode="63">
+</Annotation>
+<Annotation Id="12" Type="N" StartNode="64" EndNode="69">
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="70">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

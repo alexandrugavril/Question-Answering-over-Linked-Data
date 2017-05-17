@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/home/andrada/Documents/SSL/pROIECT/WebQSP/data/web/web_474.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>who<Node id="3"/> <Node id="4"/>played<Node id="10"/> <Node id="11"/>jacob<Node id="16"/> <Node id="17"/>black<Node id="22"/> <Node id="23"/>in<Node id="25"/> <Node id="26"/>twilight<Node id="34"/>?<Node id="35"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+<Annotation Id="1" Type="N" StartNode="0" EndNode="3">
+</Annotation>
+<Annotation Id="2" Type="PB" StartNode="4" EndNode="10">
+</Annotation>
+<Annotation Id="3" Type="EB" StartNode="11" EndNode="16">
+</Annotation>
+<Annotation Id="4" Type="EI" StartNode="17" EndNode="22">
+</Annotation>
+<Annotation Id="5" Type="N" StartNode="23" EndNode="25">
+</Annotation>
+<Annotation Id="6" Type="EB" StartNode="26" EndNode="34">
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="35">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

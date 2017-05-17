@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/Users/bogdan-ciobanu/Documents/facultate/SSL/proiect_qald/corpus/web/web_390.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>when<Node id="4"/> <Node id="5"/>was<Node id="8"/> <Node id="9"/>the<Node id="12"/> <Node id="13"/>last<Node id="17"/> <Node id="18"/>time<Node id="22"/> <Node id="23"/>the<Node id="26"/> <Node id="27"/>toronto<Node id="34"/> <Node id="35"/>maple<Node id="40"/> <Node id="41"/>leafs<Node id="46"/> <Node id="47"/>were<Node id="51"/> <Node id="52"/>in<Node id="54"/> <Node id="55"/>the<Node id="58"/> <Node id="59"/>stanley<Node id="66"/> <Node id="67"/>cup<Node id="70"/> <Node id="71"/>finals<Node id="77"/>?<Node id="78"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+<Annotation Id="1" Type="EB" StartNode="27" EndNode="34">
+</Annotation>
+<Annotation Id="2" Type="EI" StartNode="35" EndNode="40">
+</Annotation>
+<Annotation Id="3" Type="EI" StartNode="41" EndNode="46">
+</Annotation>
+<Annotation Id="4" Type="EI" StartNode="67" EndNode="70">
+</Annotation>
+<Annotation Id="5" Type="PB" StartNode="71" EndNode="77">
+</Annotation>
+<Annotation Id="6" Type="EB" StartNode="59" EndNode="66">
+</Annotation>
+<Annotation Id="7" Type="N" StartNode="0" EndNode="4">
+</Annotation>
+<Annotation Id="8" Type="N" StartNode="5" EndNode="8">
+</Annotation>
+<Annotation Id="9" Type="N" StartNode="9" EndNode="12">
+</Annotation>
+<Annotation Id="10" Type="N" StartNode="13" EndNode="17">
+</Annotation>
+<Annotation Id="11" Type="N" StartNode="18" EndNode="22">
+</Annotation>
+<Annotation Id="12" Type="N" StartNode="23" EndNode="26">
+</Annotation>
+<Annotation Id="13" Type="N" StartNode="47" EndNode="51">
+</Annotation>
+<Annotation Id="15" Type="N" StartNode="55" EndNode="58">
+</Annotation>
+<Annotation Id="16" Type="N" StartNode="52" EndNode="54">
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="78">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

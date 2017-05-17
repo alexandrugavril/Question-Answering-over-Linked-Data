@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/Users/bogdan-ciobanu/Documents/facultate/SSL/proiect_qald/corpus/qald/qald_89.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Which<Node id="5"/> <Node id="6"/>movies<Node id="12"/> <Node id="13"/>starring<Node id="21"/> <Node id="22"/>Mickey<Node id="28"/> <Node id="29"/>Rourke<Node id="35"/> <Node id="36"/>were<Node id="40"/> <Node id="41"/>directed<Node id="49"/> <Node id="50"/>by<Node id="52"/> <Node id="53"/>Guy<Node id="56"/> <Node id="57"/>Ritchie<Node id="64"/>?<Node id="65"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+<Annotation Id="1" Type="TB" StartNode="6" EndNode="12">
+</Annotation>
+<Annotation Id="2" Type="PB" StartNode="13" EndNode="21">
+</Annotation>
+<Annotation Id="3" Type="EB" StartNode="22" EndNode="28">
+</Annotation>
+<Annotation Id="4" Type="EI" StartNode="29" EndNode="35">
+</Annotation>
+<Annotation Id="5" Type="PB" StartNode="41" EndNode="49">
+</Annotation>
+<Annotation Id="6" Type="PI" StartNode="50" EndNode="52">
+</Annotation>
+<Annotation Id="7" Type="EB" StartNode="53" EndNode="56">
+</Annotation>
+<Annotation Id="8" Type="EI" StartNode="57" EndNode="64">
+</Annotation>
+<Annotation Id="9" Type="N" StartNode="0" EndNode="5">
+</Annotation>
+<Annotation Id="10" Type="N" StartNode="36" EndNode="40">
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="65">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='windows-1250'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/C:/Users/Stefania/Documents/Stefania/SSL/Project/801-900/web_834.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>where<Node id="5"/> <Node id="6"/>is<Node id="8"/> <Node id="9"/>the<Node id="12"/> <Node id="13"/>place<Node id="18"/> <Node id="19"/>where<Node id="24"/> <Node id="25"/>the<Node id="28"/> <Node id="29"/>battle<Node id="35"/> <Node id="36"/>of<Node id="38"/> <Node id="39"/>waterloo<Node id="47"/> <Node id="48"/>occur<Node id="53"/>?<Node id="54"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+<Annotation Id="1" Type="N" StartNode="0" EndNode="5">
+</Annotation>
+<Annotation Id="3" Type="N" StartNode="25" EndNode="28">
+</Annotation>
+<Annotation Id="4" Type="N" StartNode="6" EndNode="8">
+</Annotation>
+<Annotation Id="5" Type="N" StartNode="9" EndNode="12">
+</Annotation>
+<Annotation Id="6" Type="N" StartNode="19" EndNode="24">
+</Annotation>
+<Annotation Id="7" Type="N" StartNode="48" EndNode="53">
+</Annotation>
+<Annotation Id="8" Type="PB" StartNode="13" EndNode="18">
+</Annotation>
+<Annotation Id="9" Type="EB" StartNode="29" EndNode="35">
+</Annotation>
+<Annotation Id="10" Type="EI" StartNode="36" EndNode="38">
+</Annotation>
+<Annotation Id="11" Type="EI" StartNode="39" EndNode="47">
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="54">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

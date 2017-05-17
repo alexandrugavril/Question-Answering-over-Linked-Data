@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/Users/bogdan-ciobanu/Documents/facultate/SSL/proiect_qald/corpus/qald/qald_43.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Is<Node id="2"/> <Node id="3"/>Christian<Node id="12"/> <Node id="13"/>Bale<Node id="17"/> <Node id="18"/>starring<Node id="26"/> <Node id="27"/>in<Node id="29"/> <Node id="30"/>Batman<Node id="36"/> <Node id="37"/>Begins<Node id="43"/>?<Node id="44"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+<Annotation Id="1" Type="EB" StartNode="3" EndNode="12">
+</Annotation>
+<Annotation Id="2" Type="EB" StartNode="30" EndNode="36">
+</Annotation>
+<Annotation Id="5" Type="EI" StartNode="13" EndNode="17">
+</Annotation>
+<Annotation Id="6" Type="EI" StartNode="37" EndNode="43">
+</Annotation>
+<Annotation Id="7" Type="N" StartNode="0" EndNode="2">
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="44">
+</Annotation>
+<Annotation Id="3" Type="PB" StartNode="18" EndNode="26">
+</Annotation>
+<Annotation Id="4" Type="PI" StartNode="27" EndNode="29">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

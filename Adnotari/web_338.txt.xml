@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/Users/bogdan-ciobanu/Documents/facultate/SSL/proiect_qald/corpus/web/web_338.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>what<Node id="4"/> <Node id="5"/>do<Node id="7"/> <Node id="8"/>they<Node id="12"/> <Node id="13"/>call<Node id="17"/> <Node id="18"/>money<Node id="23"/> <Node id="24"/>in<Node id="26"/> <Node id="27"/>japan<Node id="32"/>?<Node id="33"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+<Annotation Id="1" Type="EB" StartNode="27" EndNode="32">
+</Annotation>
+<Annotation Id="2" Type="PB" StartNode="18" EndNode="23">
+</Annotation>
+<Annotation Id="3" Type="N" StartNode="0" EndNode="4">
+</Annotation>
+<Annotation Id="4" Type="N" StartNode="5" EndNode="7">
+</Annotation>
+<Annotation Id="5" Type="N" StartNode="8" EndNode="12">
+</Annotation>
+<Annotation Id="6" Type="N" StartNode="13" EndNode="17">
+</Annotation>
+<Annotation Id="7" Type="N" StartNode="24" EndNode="26">
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="33">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

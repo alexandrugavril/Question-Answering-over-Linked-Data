@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/Users/bogdan-ciobanu/Documents/facultate/SSL/proiect_qald/corpus/qald/qald_57.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>How<Node id="3"/> <Node id="4"/>many<Node id="8"/> <Node id="9"/>companies<Node id="18"/> <Node id="19"/>were<Node id="23"/> <Node id="24"/>founded<Node id="31"/> <Node id="32"/>in<Node id="34"/> <Node id="35"/>the<Node id="38"/> <Node id="39"/>same<Node id="43"/> <Node id="44"/>year<Node id="48"/> <Node id="49"/>as<Node id="51"/> <Node id="52"/>Google<Node id="58"/>?<Node id="59"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+<Annotation Id="1" Type="EB" StartNode="52" EndNode="58">
+</Annotation>
+<Annotation Id="2" Type="TB" StartNode="9" EndNode="18">
+</Annotation>
+<Annotation Id="3" Type="PB" StartNode="24" EndNode="31">
+</Annotation>
+<Annotation Id="5" Type="PI" StartNode="32" EndNode="34">
+</Annotation>
+<Annotation Id="6" Type="PI" StartNode="35" EndNode="38">
+</Annotation>
+<Annotation Id="7" Type="PI" StartNode="39" EndNode="43">
+</Annotation>
+<Annotation Id="8" Type="PI" StartNode="44" EndNode="48">
+</Annotation>
+<Annotation Id="9" Type="N" StartNode="0" EndNode="3">
+</Annotation>
+<Annotation Id="10" Type="N" StartNode="4" EndNode="8">
+</Annotation>
+<Annotation Id="11" Type="N" StartNode="19" EndNode="23">
+</Annotation>
+<Annotation Id="12" Type="PI" StartNode="49" EndNode="51">
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="59">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

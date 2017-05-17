@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='windows-1252'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/D:/Facultate/SSL/WebQSP/WebQSP/data/web/web_741.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>who<Node id="3"/> <Node id="4"/>plays<Node id="9"/> <Node id="10"/>caesar<Node id="16"/> <Node id="17"/>flickerman<Node id="27"/> <Node id="28"/>in<Node id="30"/> <Node id="31"/>the<Node id="34"/> <Node id="35"/>hunger<Node id="41"/> <Node id="42"/>games<Node id="47"/>?<Node id="48"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+<Annotation Id="1" Type="EB" StartNode="10" EndNode="16">
+</Annotation>
+<Annotation Id="2" Type="EI" StartNode="17" EndNode="27">
+</Annotation>
+<Annotation Id="3" Type="EB" StartNode="35" EndNode="41">
+</Annotation>
+<Annotation Id="4" Type="EI" StartNode="42" EndNode="47">
+</Annotation>
+<Annotation Id="5" Type="PB" StartNode="4" EndNode="9">
+</Annotation>
+<Annotation Id="6" Type="N" StartNode="0" EndNode="3">
+</Annotation>
+<Annotation Id="7" Type="N" StartNode="31" EndNode="34">
+</Annotation>
+<Annotation Id="8" Type="N" StartNode="28" EndNode="30">
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="48">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

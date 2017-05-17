@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='windows-1252'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/Users/eugenv/Desktop/Licenta/Adnotari/qald/qald_167.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Who<Node id="3"/> <Node id="4"/>was<Node id="7"/> <Node id="8"/>the<Node id="11"/> <Node id="12"/>doctoral<Node id="20"/> <Node id="21"/>supervisor<Node id="31"/> <Node id="32"/>of<Node id="34"/> <Node id="35"/>Albert<Node id="41"/> <Node id="42"/>Einstein<Node id="50"/>?<Node id="51"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+<Annotation Id="1" Type="PB" StartNode="12" EndNode="20">
+</Annotation>
+<Annotation Id="2" Type="PI" StartNode="21" EndNode="31">
+</Annotation>
+<Annotation Id="3" Type="EB" StartNode="35" EndNode="41">
+</Annotation>
+<Annotation Id="4" Type="EI" StartNode="42" EndNode="50">
+</Annotation>
+<Annotation Id="5" Type="N" StartNode="0" EndNode="3">
+</Annotation>
+<Annotation Id="6" Type="N" StartNode="4" EndNode="7">
+</Annotation>
+<Annotation Id="7" Type="N" StartNode="8" EndNode="11">
+</Annotation>
+<Annotation Id="8" Type="N" StartNode="32" EndNode="34">
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="51">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='windows-1252'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/C:/Users/Frankies/Desktop/Dev/Questions/qald/qald_150.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Which<Node id="5"/> <Node id="6"/>television<Node id="16"/> <Node id="17"/>shows<Node id="22"/> <Node id="23"/>were<Node id="27"/> <Node id="28"/>created<Node id="35"/> <Node id="36"/>by<Node id="38"/> <Node id="39"/>Walt<Node id="43"/> <Node id="44"/>Disney<Node id="50"/>?<Node id="51"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+<Annotation Id="1" Type="N" StartNode="0" EndNode="5">
+</Annotation>
+<Annotation Id="2" Type="N" StartNode="23" EndNode="27">
+</Annotation>
+<Annotation Id="3" Type="TB" StartNode="6" EndNode="16">
+</Annotation>
+<Annotation Id="4" Type="TI" StartNode="17" EndNode="22">
+</Annotation>
+<Annotation Id="5" Type="PB" StartNode="28" EndNode="35">
+</Annotation>
+<Annotation Id="6" Type="PI" StartNode="36" EndNode="38">
+</Annotation>
+<Annotation Id="7" Type="EB" StartNode="39" EndNode="43">
+</Annotation>
+<Annotation Id="8" Type="EI" StartNode="44" EndNode="50">
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="51">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

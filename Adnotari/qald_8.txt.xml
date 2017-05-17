@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='windows-1252'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/C:/Users/Frankies/Desktop/Dev/Questions/difference/qald_8.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Which<Node id="5"/> <Node id="6"/>states<Node id="12"/> <Node id="13"/>of<Node id="15"/> <Node id="16"/>Germany<Node id="23"/> <Node id="24"/>are<Node id="27"/> <Node id="28"/>governed<Node id="36"/> <Node id="37"/>by<Node id="39"/> <Node id="40"/>the<Node id="43"/> <Node id="44"/>Social<Node id="50"/> <Node id="51"/>Democratic<Node id="61"/> <Node id="62"/>Party<Node id="67"/>?<Node id="68"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+<Annotation Id="1" Type="N" StartNode="0" EndNode="5">
+</Annotation>
+<Annotation Id="2" Type="N" StartNode="13" EndNode="15">
+</Annotation>
+<Annotation Id="3" Type="N" StartNode="24" EndNode="27">
+</Annotation>
+<Annotation Id="4" Type="N" StartNode="40" EndNode="43">
+</Annotation>
+<Annotation Id="5" Type="TB" StartNode="6" EndNode="12">
+</Annotation>
+<Annotation Id="6" Type="EB" StartNode="16" EndNode="23">
+</Annotation>
+<Annotation Id="7" Type="EB" StartNode="44" EndNode="50">
+</Annotation>
+<Annotation Id="8" Type="PB" StartNode="28" EndNode="36">
+</Annotation>
+<Annotation Id="9" Type="PI" StartNode="37" EndNode="39">
+</Annotation>
+<Annotation Id="10" Type="EI" StartNode="51" EndNode="61">
+</Annotation>
+<Annotation Id="11" Type="EI" StartNode="62" EndNode="67">
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="68">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>
